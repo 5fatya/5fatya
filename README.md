@@ -1,0 +1,24 @@
+Hi there, I'm Fatima Fares 👋
+Welcome to my GitHub! I’m a passionate Computer Science student at Constructor University in Bremen, Germany, set to graduate in 2026. I am deeply interested in software development, technology innovations, 
+and empowering users through creative and efficient coding solutions.
+
+
+🔧 Skills
+Programming Languages:
+Python, C++, C#, Java
+
+Technologies & Tools ⚒️ :
+Arduino, Microsoft Office, Canva
+
+Concepts:
+Algorithms, Data Structures, Data Science, Human-Computer Interaction
+
+🌱 What I'm currently learning
+I am constantly looking to expand my knowledge and skills in the following areas:
+AI & Machine Learning – Exploring how artificial intelligence can improve healthcare and other industries.
+Distributed Systems – Enhancing my understanding of scalable, reliable backend technologies.
+Full-Stack Development – Sharpening both frontend and backend skills.
+
+📫 Let’s connect!
+Feel free to reach out to me via LinkedIn https://www.linkedin.com/in/fatima-fares-a302a2318/ or email me at fatya7373@gmail.com / ffares@constructor.university. 
+I am always open to discussing exciting new projects or opportunities in tech
