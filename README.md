@@ -5,17 +5,16 @@ and empowering users through creative and efficient coding solutions.
 
 🔧 Skills
 Programming Languages:
-Python, C++, C#, Java
+Python, C++, C, C# 
 
 Technologies & Tools ⚒️ :
-Arduino, Microsoft Office, Canva
+Arduino, Microsoft Office, Miro, Figma, Marvel 
 
 Concepts:
 Algorithms, Data Structures, Data Science, Human-Computer Interaction
 
 🌱 What I'm currently learning
 I am constantly looking to expand my knowledge and skills in the following areas:
-AI & Machine Learning – Exploring how artificial intelligence can improve healthcare and other industries.
 Distributed Systems – Enhancing my understanding of scalable, reliable backend technologies.
 Full-Stack Development – Sharpening both frontend and backend skills.
 
