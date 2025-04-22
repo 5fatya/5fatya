@@ -5,7 +5,7 @@ and empowering users through creative and efficient coding solutions.
 
 🔧 Skills
 Programming Languages:
-Python, C++, C, C# 
+Python, C++, C. 
 
 Technologies & Tools ⚒️ :
 Arduino, Microsoft Office, Miro, Figma, Marvel 
