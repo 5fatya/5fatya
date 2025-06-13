@@ -1,5 +1,5 @@
-Hi there, I'm Fatima Fares 👋
-Welcome to my GitHub! I’m a passionate Computer Science student at Constructor University in Bremen, Germany, set to graduate in 2026. I am deeply interested in software development, technology innovations, 
+Welcome to my GitHub! 
+I am Fatima Fares👋, a passionate Computer Science student with a minor in Data Science at Constructor University Bremen, Germany, set to graduate in 2026. I am deeply interested in software development, technology innovations, 
 and empowering users through creative and efficient coding solutions.
 
 
